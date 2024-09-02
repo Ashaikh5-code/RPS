@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #game-container {
+    margin-top: 50px;
+  }
+  
+  #choices button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #choices button:hover {
+    background-color: #3e8e41;
+  }
+  
+  #result {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  #scores {
+    font-size: 18px;
+    margin-top: 20px;
+  }
